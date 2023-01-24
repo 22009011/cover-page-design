@@ -144,7 +144,8 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
                       
 ```
 ## Output:
-blob:https://web.whatsapp.com/3b1747a0-d79a-4e82-81f7-5986ddbd232e
+![image](https://user-images.githubusercontent.com/118343461/214328733-ae356975-bc9d-41cd-aad8-2331609ca503.png)
+
 
 ## Result:
 Thus successfully designed a web page to display a book cover page design.
