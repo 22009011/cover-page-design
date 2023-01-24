@@ -144,7 +144,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
                       
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/118343461/214328733-ae356975-bc9d-41cd-aad8-2331609ca503.png)
+![image](https://user-images.githubusercontent.com/118343461/214330614-04511286-ddf4-4b1b-97c2-1ffa5bf3e421.png)
 
 
 ## Result:
