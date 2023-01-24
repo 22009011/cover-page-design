@@ -144,8 +144,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
                       
 ```
 ## Output:
-[book cover disign.pdf](https://github.com/22009011/cover-page-design/files/10474943/book.cover.disign.pdf)
-
+blob:https://web.whatsapp.com/3b1747a0-d79a-4e82-81f7-5986ddbd232e
 
 ## Result:
 Thus successfully designed a web page to display a book cover page design.
